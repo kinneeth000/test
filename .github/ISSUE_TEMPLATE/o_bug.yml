@@ -1,3 +1,9 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
+assignees:
+  - octocat
 - type: textarea
   attributes:
     label: Operating System
